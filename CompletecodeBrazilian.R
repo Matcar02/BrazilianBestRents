@@ -39,7 +39,7 @@ library(patchwork)
 #### 1.1 Data cleaning, getting rid of nulls. ####
 
 #importing the data! (CHANGE THE DIRECTORY)
-data <- read.csv("C:/Users/39339/Documents/University materials/University materials/Dataanalysisforbusiness/BrazHousesRent.csv")
+data <- read.csv("C:/BrazHousesRent.csv")
 
 # Head and structure of the dataset
 #head(data)
