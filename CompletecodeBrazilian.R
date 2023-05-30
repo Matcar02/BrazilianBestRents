@@ -7,8 +7,8 @@
 
 
 #### In this script, you can find the code we used for our analysis. We will also include some code we tried at the end of the section
-#### but we did not include in the final analysis (other models/trials). However, the RMarkdown provides and the immediate
-#### code below, provides the used code and hence, the relevant one.
+#### but we did not include in the final analysis (other models/trials). However, the RMarkdown provides the immediate code below,
+#### that is the used code and hence, the relevant one.
 
 #### Matteo Carucci, Alessandro Natoli, Tommaso Agudio and Lorenzo Ciampana ####
 ---------------------------------------------------------------------------------------------------------------------------------------------
