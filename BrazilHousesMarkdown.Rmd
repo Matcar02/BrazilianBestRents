@@ -60,7 +60,7 @@ in the **`floor`** column.
 
 ```{r, echo = FALSE}
 #importing the data! (CHANGE THE DIRECTORY)
-data <- read.csv("C:/Users/39339/Documents/University materials/University materials/Dataanalysisforbusiness/BrazHousesRent.csv")
+data <- read.csv("C:/BrazHousesRent.csv")
 
 # Head and structure of the dataset
 #head(data)
